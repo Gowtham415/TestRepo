@@ -1,0 +1,21 @@
+Participate in Wiki Loves Monuments, the largest photography competition in the world, and help Wikimedia projects to document monuments and heritage buildings.
+
+Participating is fun! By sharing your photographed images of heritage nearby you with the world, people get the opportunity to explore more about Indian heritage and learn about it! It's a good challenge to display your photography skills, and you can win some nice prizes as well. The national jury will select ten images that will represent India in the international finale.
+
+Judging criteria
+The jury will determine the winners of the contest taking into consideration the following criteria. Kindly note that this is just not another photography contest. In order of importance, the criteria are as follows:
+
+Effort put into researching the subject and taking the image – we welcome descriptive notes on the subject, how the photo was taken, processed etc.
+Quality of description provided on the image (in any language) [judged primarily on the basis of what is provided by the image submitter rather than other contributors].
+Value of the image in terms of usage – ideally demonstrated by usage in any Wikimedia project of any language with appropriate captions and well-referenced text surrounding the image that demonstrates that the article has been greatly enhanced by the image.
+Value of the image based on uniqueness – is it filling a blank, is it from a location that is hard to reach, is it the only image of its kind etc.
+Technical quality (sharpness, use of light, perspective, composition, etc.)
+Grounds for rejection of submitted images can include but are not limited to:.
+suspected of copyright violation;
+if required jury members may contact participants via talk pages or email – if they cannot be reached or responses to emails are not received within 48 hours – then the submission may be considered suspect and be rejected, participants may please ensure that they enable email, watch talk pages, and check their spam folders;
+lack of full EXIF information – where possible, contributors should include (or link to file versions with EXIF) other versions/from other angles in the other versions details;
+excessive processing, use of filters that are unrealistic;
+image does not document monument faithfully enough;
+watermarks or credits on the image (credit to the author is ensured through the license and may also be included in the EXIF);
+resolution below 5 megapixel.
+Images that reach a top ranking of the international finale, will typically at least fulfill the technical criteria of the ‘Featured Image’ process at Wikimedia Commons. But feel free to submit any number of images, and let the jury decide if they are good enough.
